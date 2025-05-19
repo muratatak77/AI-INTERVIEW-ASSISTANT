@@ -51,7 +51,7 @@ source .venv/bin/activate
 Then run the app (example):
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 Make sure to replace `app.py` with the actual entry point if different.
