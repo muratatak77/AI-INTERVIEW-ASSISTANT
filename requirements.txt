@@ -1,0 +1,6 @@
+openai
+streamlit
+sounddevice
+numpy
+python-dotenv
+openai-whisper
