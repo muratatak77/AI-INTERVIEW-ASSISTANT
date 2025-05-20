@@ -91,6 +91,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
+
+### Screen Recording 
+
+
+https://github.com/user-attachments/assets/7315ff71-5ef0-42c6-9e31-4f5f4036c1b1
+
+
+
 ## 📄 License
 
 MIT License
